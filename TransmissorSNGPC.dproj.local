@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/12/29 15:27:51.085.pas,C:\Users\Pedro\Documents\RAD Studio\Projects\Unit1.pas=D:\Projetos\Transmissor_SNGPC\U_TransmissorSNGPC.pas</Transaction>
+    <Transaction>2011/12/29 15:27:51.086.dfm,C:\Users\Pedro\Documents\RAD Studio\Projects\Unit1.dfm=D:\Projetos\Transmissor_SNGPC\U_TransmissorSNGPC.dfm</Transaction>
+    <Transaction>2011/12/29 15:28:12.302.dproj,C:\Users\Pedro\Documents\RAD Studio\Projects\Project1.dproj=D:\Projetos\Transmissor_SNGPC\TransmissorSNGPC.dproj</Transaction>
+    <Transaction>2011/12/29 15:42:03.167.pas,D:\Projetos\Transmissor_SNGPC\Unit1.pas=D:\Projetos\Transmissor_SNGPC\U_Funcoes.pas</Transaction>
+    <Transaction>2011/12/29 17:26:10.889.pas,D:\Projetos\Transmissor_SNGPC\Unit1.pas=D:\Projetos\Transmissor_SNGPC\U_SNGPC.pas</Transaction>
+    <Transaction>2012/01/30 20:34:30.541.pas,D:\Projetos\Transmissor_SNGPC\sngpc1.pas=D:\Projetos\Transmissor_SNGPC\sngpc_homologacao.pas</Transaction>
+    <Transaction>2012/01/30 20:37:40.410.pas,D:\Projetos\Transmissor_SNGPC\sngpc_homologacao.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
